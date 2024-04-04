@@ -6,18 +6,7 @@
     <meta charset="utf-8">jjtyjtyjty;l;lhk;hlhp[hkkhlh]hkl
 hkhl[hklund: #FFFFFF;
         margin: 0;
-      }
-      [show-background-image] #backgroundImage 
-<!doctype html>
-<html dir="ltr" lang="en"
-    chrome-refresh-2023>
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
+      };
       }
 
       #backgroundImage {
