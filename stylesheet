@@ -41,20 +41,7 @@ fsd;d
 s';sd
 f'sd
 f[sd
-]fsdf]
-sdf
-[sdf[sd]f[sdsdfsdfds
-        pointer-events: none;
         position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
