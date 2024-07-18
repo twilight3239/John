@@ -2,21 +2,15 @@
 
         position: fixed;
         top: 0;sdvsdvsdvsdvsd
-        visibility: hidden;
-        width: 100%;
+        visibility: hidden;g
 <!doctype html>sdvsdvvsdv
 <html dir="ltr" lang="en">vsdsd
-  <head>sd
-<!doctype html>sd
-<html dir="ltr" lang="en">sdv
+  <head>sdjghjgh
+<!doctype html>sdhjgh
+<html dir="ltr" lang="en">sdvghjgy
   <head>sdvsdvsdv
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;sdvsdv
-        margin: 0;
-      }
 
       #backgroundImage {
         border: none;
@@ -26,8 +20,7 @@
         top: 0;
         visibility: hidden;
         width: 100%;
-      }
-
+gh
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
