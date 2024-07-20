@@ -9,13 +9,7 @@
 <!doctype html>sdhjgh
 <html dir="ltr" lang="en">sdvghjgy
   <head>sdvsdvsdv
-    <meta charset="utf-8">
-    <title>New Tab</title>
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
+    <meta charset="utf-8">jhoi
         position: fixed;
         top: 0;
         visibility: hidden;
