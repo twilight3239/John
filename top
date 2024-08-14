@@ -6,16 +6,6 @@
 <!doctype html>sdvsdvvsdv
         visibility: hidden; href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
-      body {
-        background: #FFFFFF;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
       }
     </style>
   </head>
