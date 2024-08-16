@@ -3,21 +3,6 @@
 <html dir="ltr" lang="en"
     chrome-refresh-2023>=""></iframe>
     <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://re
-        position: fixed;
-        top: 0;
-  <head>
-    <meta charset="utf-8">
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
     </style>
   </head>
   <body>
