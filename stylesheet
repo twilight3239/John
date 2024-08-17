@@ -1,9 +1,5 @@
 
 <!doctype html>
-<html dir="ltr" lang="en"
-    chrome-refresh-2023>=""></iframe>
-    <ntp-app></ntp-app>
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
