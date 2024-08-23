@@ -1,14 +1,4 @@
 
-<!doctype html>
-        margin: 0;
-      }
-
-      #backgroundImage {
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
       }
     </style>
   </head>
