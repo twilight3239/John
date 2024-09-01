@@ -5,23 +5,18 @@
       #backgroundImage {
         border: none;
         height: 100%;ge.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-<!doctype html>
-<html dir="ltr" lang="en">
+    <link rel="stylesheet" href="chrome://resou
   <head>
     <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
+    <title>New Tab</title>IIU
+    <style>II
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;UI
         margin: 0;
-      }
+      }UI
 
       #backgroundImage {
-        border: none;
+        border: none;UII
         height: 100%;
         pointer-events: none;
         position: fixed;
