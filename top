@@ -6,18 +6,6 @@
   </body>sdfsdf
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <tasdfsdfsdfsdf
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>sds
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>sdf
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylessddfsheet"df href="shared_vars.css">
   </body>
