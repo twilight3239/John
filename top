@@ -1,23 +1,5 @@
 
   <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>dule" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-
-
-  </body>
-
-
-
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
