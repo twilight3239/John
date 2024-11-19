@@ -1,13 +1,4 @@
 
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-</html>
-
-<!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
   <head>
